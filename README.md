@@ -1,7 +1,7 @@
-<h1 align="center"><img src=".assets/animated_title.svg" alt="Devloper Sparrow" height="55"></h1>
+<h1 align="center"><img src=".assets/animated_title.svg" alt="Devloper Arvind" height="55"></h1>
 
 <p align="center">
-  <img src=".assets/social_preview.jpg" alt="Devloper Sparrow Logo" width="100%" style="border-radius: 8px;">
+  <img src=".assets/social_preview.jpg" alt="Devloper Arvind Logo" width="100%" style="border-radius: 8px;">
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/DevloperSP/MusicSp?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/DevloperSP/MusicSp?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/DevloperSP/MusicSp?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/DevloperSP/MusicSp?style=for-the-badge&color=green" alt="GitHub license">
+  <img src="https://img.shields.io/github/stars/DevloperSP/MusicAk?style=for-the-badge&color=blue" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/DevloperSP/MusicAk?style=for-the-badge&color=blue" alt="GitHub forks">
+  <img src="https://img.shields.io/github/issues/DevloperAk/MusicAk?style=for-the-badge&color=red" alt="GitHub issues">
+  <img src="https://img.shields.io/github/license/DevloperAk/MusicAk?style=for-the-badge&color=green" alt="GitHub license">
 </p>
 
 <h2 align="center">Delivering Superior Music Experience to Telegram</h2>
@@ -23,8 +23,8 @@
   <a href="https://t.me/Mecobots">
     <img src="https://img.shields.io/badge/Developer%20Home-Telegram-2E64FE?style=for-the-badge&logo=telegram&logoColor=white" alt="Developer Home">
   </a>
-  <a href="https://t.me/Spparow_92">
-    <img src="https://img.shields.io/badge/Contact%20Owner-%40Spparow__92-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Owner">
+  <a href="https://t.me/thejaatxd">
+    <img src="https://img.shields.io/badge/Contact%20Owner-%40Thejaatxd-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Owner">
   </a>
 </p>
 
@@ -156,7 +156,7 @@ Stay updated with the latest features, releases, and fixes for **Devloper Sparro
   <a href="https://t.me/Mecobots">
     <img src="https://img.shields.io/badge/Join-Developer%20Home-blue?style=for-the-badge&logo=telegram" alt="Developer Home">
   </a>
-  <a href="https://t.me/Spparow_92">
+  <a href="https://t.me/Thejaatxd">
     <img src="https://img.shields.io/badge/Direct-Support-blue?style=for-the-badge&logo=telegram" alt="Direct Support">
   </a>
 </p>
@@ -191,5 +191,5 @@ This project is licensed under the **MIT License**. For complete terms and permi
 </p>
 
 We would like to express our gratitude to all contributors, developers, and supporters who have helped shape the **Devloper Sparrow Bot**:
-- **Source Code Credits:** [Devloper Sparrow Bot](https://t.me/@MusicSp1_bot) and [Devloper Sparrow](https://github.com/DevloperSP/MusicSp) repositories for the foundations.
+- **Source Code Credits:** [Devloper Sparrow Bot](https://t.me/@Nokiamusicbot) and [Devloper Sparrow](https://github.com/DevloperSP/MusicSp) repositories for the foundations.
 - **Customization & Maintenance:** Rebranded, updated, and maintained by **DevSparrow**.
